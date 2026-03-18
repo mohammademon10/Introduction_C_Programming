@@ -1,12 +1,9 @@
 # Introduction to C Programming - Assignments and Practice
 
-![Build (main)](https://github.com/mohammademon10/REPOSITORY/actions/workflows/c-build.yml/badge.svg?branch=main)
-![Build (dev)](https://github.com/mohammademon10/REPOSITORY/actions/workflows/c-build.yml/badge.svg?branch=dev)
 ![Coverage](https://img.shields.io/badge/Coverage-Not%20Configured-lightgrey.svg)
-![Contributors](https://img.shields.io/github/contributors/mohammademon10/REPOSITORY)
-![Stars](https://img.shields.io/github/stars/mohammademon10/REPOSITORY?style=social)
-![Release](https://img.shields.io/github/v/release/mohammademon10/REPOSITORY)]([https://github.com/mohammademon10/REPOSITORY/actions/workflows/c-build.yml/badge.svg?branch=dev](https://github.com/mohammademon10/REPOSITORY/actions/workflows/c-build.yml/badge.svg?branch=dev))
-
+![Contributors](https://img.shields.io/github/contributors/mohammademon10/Introduction_C_Programming)
+![Stars](https://img.shields.io/github/stars/mohammademon10/Introduction_C_Programming?style=social)
+![Release](https://img.shields.io/github/v/release/mohammademon10/Introduction_C_Programming)
 ---
 
 ## 📌 Overview
